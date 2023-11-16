@@ -9,10 +9,6 @@
   <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <h2 id="project">📁 Projeto</h2>
 
 Construímos uma API completa utilizando Node.js e Express. Utilizamos o Insomnia para cadastrar as rotas e verificar seus status codes. Criamos um banco de dados utilizando SQLite, manipulamos o banco utilizando a ferramenta Beekeper Studio juntamente com o Query Builder Knex.js.
