@@ -7,7 +7,6 @@
   <a href="#structure">Estrutura</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#usage">Utilização</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#license">Licença</a>
 </p>
 
 <p align="center">
@@ -43,10 +42,6 @@ $ cd rocket-notes-api
 $ npm install
 $ npm run dev
 ```
-
-<h2 id="license">📝 Licença</h2>
-
-Esse projeto está sob a licença MIT.
 
 ---
 
